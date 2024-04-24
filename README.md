@@ -72,75 +72,75 @@
     <tbody>
       <tr>
         <td>1º Horário</td>
-        <td>Geografia</td>
-        <td>Física</td>
-        <td>NEE</td>
+        <td>Biologia</td>
         <td>Língua Portuguesa</td>
+        <td>Química</td>
+        <td>Eletiva Orientada</td>
         <td>Matemática</td>
       </tr>
       <tr>
         <td>2º Horário</td>
-        <td>Geografia</td>
-        <td>Física</td>
-        <td>NEE</td>
+        <td>Biologia</td>
+        <td>Química</td>
         <td>Língua Portuguesa</td>
-        <td>Matemática</td>
+        <td>Eletiva Orientada</td>
+        <td>Orientação Acadêmica</td>
       </tr>
       <tr>
         <td>3º Horário</td>
-        <td>Espanhol</td>
-        <td>Matemática</td>
-        <td>Orientação Acadêmica</td>
-        <td>Inglês</td>
+        <td>Práticas Experimentais</td>
+        <td>_______________</td>
         <td>Língua Portuguesa</td>
+        <td>Artes</td>
+        <td>Inglês</td>
       </tr>
       <tr>
         <td>4º Horário</td>
-        <td>AOC</td>
-        <td>AOC</td>
+        <td>NEE</td>
+        <td>Física</td>
         <td>Eletivas</td>
+        <td>História</td>
         <td>Inglês</td>
-        <td>Educação Física</td>
       </tr>
       <tr>
         <td>5º Horário</td>
-        <td>AOC</td>
-        <td>AOC</td>
+        <td>NEE</td>
+        <td>Física</td>
         <td>Eletivas</td>
-        <td>Eletiva Orientada</td>
+        <td>História</td>
         <td>Educação Física</td>
       </tr>
       <tr>
         <td>6º Horário</td>
-        <td>Sociologia</td>
-        <td>Biologia</td>
-        <td>Oficina Formativa</td>
-        <td>Eletiva Orientada</td>
-        <td>_______________</td>
+        <td>Projeto de Vida</td>
+        <td>AOC</td>
+        <td>NEE</td>
+        <td>Orientação Acadêmica</td>
+        <td>Educação Física</td>
       </tr>
       <tr>
         <td>7º Horário</td>
-        <td>Práticas Experimentais</td>
-        <td>Biologia</td>
-        <td>Oficina Formativa</td>
-        <td>Orientação Acadêmica</td>
-        <td>Artes</td>
+        <td>Projeto de Vida</td>
+        <td>AOC</td>
+        <td>NEE</td>
+        <td>Espanhol</td>
+        <td>Sociologia</td>
       </tr>
       <tr>
         <td>8º Horário</td>
-        <td>NEE</td>
-        <td>Projeto de Vida</td>
-        <td>Química</td>
-        <td>História</td>
+        <td>AOC</td>
         <td>Informática Básica</td>
+        <td>Oficina Formativa</td>
+        <td>Matemática</td>
+        <td>Geografia</td>
       </tr>
       <tr>
         <td>9º Horário</td>
-        <td>NEE</td>
-        <td>Projeto de Vida</td>
-        <td>Química</td>
-        <td>História</td>
+        <td>AOC</td>
         <td>Informática Básica</td>
+        <td>Oficina Formativa</td>
+        <td>Matemática</td>
+        <td>Geografia</td>
       </tr>
     </tbody>
     <tfoot>
